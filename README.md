@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
 <h3 align="center">AI Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/168c760c-5a61-416a-99f7-92dbbf7bb613)"
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali031101&label=Profile%20views&color=0e75b6&style=flat" alt="anjali031101" /> </p>
 
 - 📫 How to reach me **anjali.sharma.cs.2024@gmail.com**
